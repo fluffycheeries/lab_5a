@@ -8,7 +8,7 @@
     // Define your details in variables
     $name = "Puteri Balqis Binti Kamaruzaman";
     $matric_number = "AI220128";
-    $course = "Bachelor of Science in Computer (Software Engineering)";
+    $course = "Bachelor of Science Computer (Software Engineering)";
     $year_of_study = "3rd Year";
     $address = "No 38, Jalan Universiti, Taman Universiti, Parit Raja, Batu Pahat, Johor";
     ?>
